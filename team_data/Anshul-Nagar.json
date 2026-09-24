@@ -1,18 +1,12 @@
 {
-  "student_name": "Anshul Nagar",
-  "weeks": {
-    "2026-W36": {
-      "form_number": 3,
-      "lines_added": 345,
-      "lines_deleted": 50,
-      "commit_logs": [
-      {
-        "date": "2026-09-24",
-        "hash": "a9i5s23e",
-      "lines_added": 349,
-      "lines_deleted": 25,
-      "commit_logs": [
-      {
+"student_name": "Anshul Nagar",
+"weeks": {
+"2026-W38": {
+"form_number": 3,
+"lines_added": 123,
+"lines_deleted": 50,
+"commit_logs": [
+{
         "date": "2026-09-24",
         "hash": "a9i6s23e",
         "message": "Update README.md"
