@@ -242,7 +242,7 @@ const en = {
         badge: "Google Solution Challenge 2026",
         desc: "Designed to demonstrate how responsible AI, multilingual accessibility, and transparent civic workflows can strengthen collaboration between communities and municipalities.",
       },
-      challenge_tag: "Built with ❤️ for Google Solution Challenge",
+      challenge_tag: "Built with ❤️ for Bhartiya Janta",
       privacy: "Privacy",
       terms: "Terms",
       contact: "Contact",
