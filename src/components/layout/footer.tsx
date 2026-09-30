@@ -127,8 +127,9 @@ export function Footer() {
                       Aaditya Bansal
                     </p>
                     <p className="text-xs text-slate-500">
-                      Team Lead · AI/ML & GIS
+                      Team Lead {/* · AI/ML & GIS */}
                     </p>
+                    
                   </div>
 
                   <span className="ml-auto shrink-0 text-xs font-medium text-emerald-600">
@@ -151,9 +152,9 @@ export function Footer() {
                     <p className="text-sm font-semibold text-slate-900">
                       Anmol Gupta
                     </p>
-                    <p className="text-xs text-slate-500">
+                    {/* <p className="text-xs text-slate-500">
                       Backend & Database
-                    </p>
+                    </p> */}
                   </div>
 
                   <span className="ml-auto shrink-0 text-xs font-medium text-emerald-600">
@@ -176,9 +177,9 @@ export function Footer() {
                     <p className="text-sm font-semibold text-slate-900">
                       Anshul Nagar
                     </p>
-                    <p className="text-xs text-slate-500">
+                    {/* <p className="text-xs text-slate-500">
                       Frontend & UI
-                    </p>
+                    </p> */}
                   </div>
 
                   <span className="ml-auto shrink-0 text-xs font-medium text-emerald-600">
@@ -201,9 +202,9 @@ export function Footer() {
                     <p className="text-sm font-semibold text-slate-900">
                       Anushka Agrawal
                     </p>
-                    <p className="text-xs text-slate-500">
+                    {/* <p className="text-xs text-slate-500">
                       Testing & Integration
-                    </p>
+                    </p> */}
                   </div>
 
                   <span className="ml-auto shrink-0 text-xs font-medium text-emerald-600">

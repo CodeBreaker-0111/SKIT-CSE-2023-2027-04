@@ -131,7 +131,7 @@ const en = {
         eyebrow: "Quick Answers",
         title: "Frequently Asked Questions",
         q1: "Is NagarSeva an official municipal service?",
-        a1: "No. NagarSeva is currently a Google Solution Challenge project and civic workflow demonstration unless adopted by a participating authority.",
+        a1: "No. NagarSeva is currently in a Testing Phase and civic workflow demonstration unless adopted by a participating authority.",
         q2: "Does the contact form send messages?",
         a2: "No. This page currently demonstrates the user interface only. A production backend can be connected later.",
         q3: "Are homepage statistics real?",
