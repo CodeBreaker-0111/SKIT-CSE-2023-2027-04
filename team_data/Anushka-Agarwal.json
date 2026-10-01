@@ -1,20 +1,15 @@
 {
 "student_name": "Anushka Agrawal",
 "weeks": {
-"2026-W39": {
+"2026-W40": {
 "form_number": 3,
-"lines_added": 149,
-"lines_deleted": 22,
+"lines_added": 199,
+"lines_deleted": 20,
 "commit_logs": [
         {
-        "date": "2026-09-22",
-        "hash": "a9i2e9e",
-        "message": "resolve"
-        },
-        {
-        "date": "2026-09-22",
-        "hash": "a9i7e1e",
-        "message": "resolve authentication test failures"
+        "date": "2026-09-29",
+        "hash": "a9i7e9j0",
+        "message": "Adding terms, privacy in the Footer"
         }
 ]
 }

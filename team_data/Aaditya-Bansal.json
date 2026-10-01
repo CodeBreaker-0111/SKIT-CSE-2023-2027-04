@@ -1,28 +1,23 @@
 {
   "student_name": "Aaditya Bansal",
   "weeks": {
-    "2026-W39": {
-      "evaluation_start": "2026-09-18",
-      "evaluation_end": "2026-09-24",
-      "generated_on": "2026-09-24",
+    "2026-W40": {
+      "evaluation_start": "2026-09-25",
+      "evaluation_end": "2026-10-01",
+      "generated_on": "2026-10-01",
       "form_number": 3,
-      "lines_added": 99,
-      "lines_deleted": 67,
+      "lines_added": 167,
+      "lines_deleted": 23,
       "commit_logs": [
         {
-          "date": "2026-09-21",
-          "hash": "a2b2r6e",
-          "message": "integrate user profile with authentication"
+          "date": "2026-09-30",
+          "hash": "a2b2i0q",
+          "message": "Frontend Completed"
         },
         {
-          "date": "2026-09-21",
-          "hash": "ae33c9t5",
-          "message": "update functionality"
-        },
-        {
-          "date": "2026-09-21",
-          "hash": "62b9i3d",
-          "message": "implementing flow"
+          "date": "2026-10-01",
+          "hash": "a2b2i9x",
+          "message": "Formatting the Frontend"
         }
       ]
     }

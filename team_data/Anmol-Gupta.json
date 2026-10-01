@@ -1,25 +1,15 @@
 {
 "student_name": "Anmol Gupta",
 "weeks": {
-"2026-W39": {
+"2026-W40": {
 "form_number": 3,
-"lines_added": 344,
-"lines_deleted": 12,
+"lines_added": 27,
+"lines_deleted": 1,
 "commit_logs": [
-{
-"date": "2026-09-23",
-"hash": "a9i2s9f",
-"message": "enhance user profile"
-        },
-{
-"date": "2026-09-23",
-"hash": "bs3c2r5e",
-"message": "add row level security policies"
-},
         {
-        "date": "2026-09-21",
-        "hash": "bs3c2r2e",
-        "message": "Issue Resolving"
+        "date": "2026-09-29",
+        "hash": "bs3c2r9w",
+        "message": "Formating the Button design"
 }
 ]
 }

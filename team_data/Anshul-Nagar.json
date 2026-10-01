@@ -1,15 +1,15 @@
 {
 "student_name": "Anshul Nagar",
 "weeks": {
-"2026-W39": {
+"2026-W40": {
 "form_number": 3,
-"lines_added": 123,
-"lines_deleted": 50,
+"lines_added": 55,
+"lines_deleted": 1,
 "commit_logs": [
 {
-        "date": "2026-09-24",
-        "hash": "a9i6s23e",
-        "message": "Update README.md"
+        "date": "2026-10-01",
+        "hash": "a9i6s9wi",
+        "message": "Updating Logo"
       }
     ]
     }
