@@ -1,15 +1,15 @@
 {
 "student_name": "Anmol Gupta",
 "weeks": {
-"2026-W40": {
+"2026-W41": {
 "form_number": 3,
-"lines_added": 27,
-"lines_deleted": 1,
+"lines_added": 126,
+"lines_deleted": 23,
 "commit_logs": [
         {
-        "date": "2026-09-29",
-        "hash": "bs3c2r9w",
-        "message": "Formating the Button design"
+        "date": "2026-10-07",
+        "hash": "4r5y5j7",
+        "message": "Supabase Initialisation"
 }
 ]
 }
