@@ -1,23 +1,23 @@
 {
   "student_name": "Aaditya Bansal",
   "weeks": {
-    "2026-W40": {
-      "evaluation_start": "2026-09-25",
-      "evaluation_end": "2026-10-01",
-      "generated_on": "2026-10-01",
+    "2026-W42": {
+      "evaluation_start": "2026-10-09",
+      "evaluation_end": "2026-10-15",
+      "generated_on": "2026-10-15",
       "form_number": 3,
-      "lines_added": 167,
-      "lines_deleted": 23,
+      "lines_added": 245,
+      "lines_deleted": 66,
       "commit_logs": [
         {
-          "date": "2026-09-30",
-          "hash": "a2b2i0q",
-          "message": "Frontend Completed"
+          "date": "2026-10-12",
+          "hash": "a3e9i0q",
+          "message": "Authentication Updated"
         },
         {
-          "date": "2026-10-01",
+          "date": "2026-10-14",
           "hash": "a2b2i9x",
-          "message": "Formatting the Frontend"
+          "message": "Supabase Initialisation and Fetching the account"
         }
       ]
     }
