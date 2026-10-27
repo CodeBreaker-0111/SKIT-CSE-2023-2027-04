@@ -2,22 +2,27 @@
   "student_name": "Aaditya Bansal",
   "weeks": {
     "2026-W44": {
-      "evaluation_start": "2026-10-09",
-      "evaluation_end": "2026-10-15",
-      "generated_on": "2026-10-15",
+      "evaluation_start": "2026-10-16",
+      "evaluation_end": "2026-10-22",
+      "generated_on": "2026-10-22",
       "form_number": 3,
-      "lines_added": 245,
-      "lines_deleted": 66,
+      "lines_added": 500,
+      "lines_deleted": 11,
       "commit_logs": [
         {
-          "date": "2026-10-12",
-          "hash": "a3e9i0q",
-          "message": "Authentication Updated"
+          "date": "2026-10-18",
+          "hash": "a3y6i9q",
+          "message": "Initialising Maps"
         },
         {
-          "date": "2026-10-14",
-          "hash": "a2b2i9x",
-          "message": "Supabase Initialisation and Fetching the account"
+          "date": "2026-10-18",
+          "hash": "a2v7e5v",
+          "message": "Api calls the Maps"
+        },
+        {
+          "date": "2026-10-21",
+          "hash": "b2r7i9x0",
+          "message": "Geolocation Setup"
         }
       ]
     }
