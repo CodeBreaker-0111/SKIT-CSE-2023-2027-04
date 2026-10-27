@@ -1,7 +1,6 @@
 {
 "student_name": "Anmol Gupta",
 "weeks": {
-<<<<<<< HEAD
 "2026-W42": {
 "form_number": 3,
 "lines_added": 123,
@@ -11,17 +10,7 @@
         "date": "2026-10-14",
         "hash": "ew3c2r9w",
         "message": "Authentication Check"
-=======
-"2026-W41": {
-"form_number": 3,
-"lines_added": 126,
-"lines_deleted": 23,
-"commit_logs": [
-        {
-        "date": "2026-10-07",
-        "hash": "4r5y5j7",
-        "message": "Supabase Initialisation"
->>>>>>> 43575db3f5685a60e95b62dcc2b6b58a78c3c1ce
+        }
 }
 ]
 }
