@@ -3,12 +3,12 @@
 "weeks": {
 "2026-W44": {
 "form_number": 3,
-"lines_added": 245,
-"lines_deleted": 33,
+"lines_added": 145,
+"lines_deleted": 12,
 "commit_logs": [
         {
-        "date": "2026-10-20",
-        "hash": "o9i4t6y",
+        "date": "2026-10-28",
+        "hash": "o9i4y7u",
         "message": "Geographical setup"
         }
 ]
