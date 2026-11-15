@@ -3,18 +3,13 @@
 "weeks": {
 "2026-W44": {
 "form_number": 3,
-"lines_added": 456,
+"lines_added": 156,
 "lines_deleted": 121,
 "commit_logs": [
 {
-        "date": "2026-10-21",
-        "hash": "i9d7e4h0",
-        "message": "Location and Map UI"
-      },
-      {
-        "date": "2026-10-21",
-        "hash": "i9d7e7u8",
-        "message": "Bugs in UI"
+        "date": "2026-10-27",
+        "hash": "i9d7w4t6",
+        "message": "Setting up the Location and Map UI"
       }
     ]
     }
